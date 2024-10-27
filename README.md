@@ -1,4 +1,4 @@
-# Backup Script
+# Quick Backup
 
 This project is a Python script designed to perform backups of specified directories and compress them for storage in a quick way.
 
